@@ -1,0 +1,24 @@
+{
+  "name": "gulp-typescript-to-lua",
+  "version": "0.0.1",
+  "description": "Gulp plugin for TypescriptToLua",
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "typescript",
+    "lua",
+    "tstl",
+    "transpiler"
+  ],
+  "author": {
+    "name": "Ricki Runge",
+    "email": "mail@rickirunge.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^3.0.1",
+    "typescript-to-lua": "^0.31.0"
+  }
+}
